@@ -1,0 +1,5 @@
+- Hi, myname is Nick
+- i am interested in 3d modeling
+- curently i am learning
+- i would like to create a parametric modeling engine
+- 
